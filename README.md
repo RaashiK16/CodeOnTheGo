@@ -1,5 +1,5 @@
-# CodeOnTheGo
-CodeShare is a real-time collaborative code editor web application that allows multiple users to edit the same code file simultaneously. Users can create online rooms, share the room URL with others, and code together in the browser.
+# CodeOnTheGo - https://code-on-the-go.vercel.app/
+CodeOnTheGo is a real-time collaborative code editor web application that allows multiple users to edit the same code file simultaneously. Users can create online rooms, share the room URL with others, and code together in the browser.
 
 
 ## Features
